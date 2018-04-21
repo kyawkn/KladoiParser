@@ -1,0 +1,26 @@
+begin
+ y := 4
+ x := 5
+ z := 10
+ if - 1 3
+  begin
+    x := + 1 x
+    y := - x x
+  end
+  pass
+ if y
+  pass
+  begin
+    x := + 1 x
+    y := - x x
+  end
+ if z
+  begin
+    x := + 1 x
+    y := - x x
+  end
+  begin
+    x := + 1 x
+    y := - x x
+  end
+end

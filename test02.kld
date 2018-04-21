@@ -1,0 +1,14 @@
+begin
+  a := 4
+  b := 20
+  c := 24
+
+  inside := - * b b * 4 * a c
+  left := 2
+  right := / inside left
+  while - left right
+      left := right
+
+  r := / + - 0 b left * 2 a
+  s := / - - 0 b left * 2 a
+end
